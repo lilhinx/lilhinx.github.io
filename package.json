@@ -1,0 +1,44 @@
+{
+  "name": "lilhinx.github.io",
+  "version": "0.0.0",
+  "description": "website for lilhinx",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "del": "~2.2.2",
+    "gulp": "~3.9.1",
+    "gulp-autoprefixer": "~3.1.1",
+    "gulp-cached": "~1.1.1",
+    "gulp-clean-css": "~2.0.13",
+    "gulp-connect": "~5.0.0",
+    "gulp-csscomb": "^3.0.8",
+    "gulp-eslint": "^3.0.1",
+    "gulp-flatten": "^0.3.1",
+    "gulp-fontmin": "~0.7.4",
+    "gulp-imagemin": "~3.1.1",
+    "gulp-jade": "^1.1.0",
+    "gulp-minify-html": "~1.0.6",
+    "gulp-open": "~2.0.0",
+    "gulp-run-sequence": "~0.3.2",
+    "gulp-sass": "~2.3.2",
+    "gulp-scss-lint": "^0.4.0",
+    "gulp-uglify": "^2.0.0",
+    "gulp-util": "^3.0.7",
+    "imagemin-pngquant": "~5.0.0",
+    "require-dir": "~0.3.1",
+    "run-sequence": "~1.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lilhinx/lilhinx.github.io.git"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/lilhinx/lilhinx.github.io/issues"
+  },
+  "homepage": "https://github.com/lilhinx/lilhinx.github.io"
+}
